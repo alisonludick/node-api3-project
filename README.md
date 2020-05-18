@@ -1,12 +1,12 @@
 # Building an API using a Node.js and Express Middleware
 
-In this challenge, you build an API and write custom middleware that satisfies the requirements listed under the `Minimum Viable Product` section.
+In this challenge, you build an API and write custom middleware that satisfies the requirements listed under the `Minimum Viable Product` section
 
 ## Instructions
 
 **Read these instructions carefully. Understand exactly what is expected before starting.**
 
-You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your TL and Instructor.
+You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your TL and Instructor
 
 ## Project Set Up
 
@@ -17,7 +17,7 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
-Follow these steps for completing your project.
+Follow these steps for completing your project
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
 - [ ] Add your `Team Lead` as a reviewer on the pull-request
